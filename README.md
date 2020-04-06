@@ -1,2 +1,2 @@
 # pyBot
-Automating AWS with Python
+All About Automating AWS with Python
